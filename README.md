@@ -23,3 +23,7 @@ Finally, extracting the FASTA file for the regions:
 ```
 bedtools getfasta -fi /lizardfs/erikg/HPRC/year1/parts/chr6.pan+refs.fa -bed HPRCy1.MHC.merge.bed >HPRCy1.MHC.fa
 ```
+
+## access
+
+The resulting file has been gzipped and posted publicly: http://hypervolu.me/~erik/HPRC/HPRCy1.MHC.fa.gz
