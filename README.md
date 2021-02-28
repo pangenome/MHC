@@ -26,4 +26,4 @@ bedtools getfasta -fi /lizardfs/erikg/HPRC/year1/parts/chr6.pan+refs.fa -bed HPR
 
 ## access
 
-The resulting file has been gzipped and posted publicly: http://hypervolu.me/~erik/HPRC/HPRCy1.MHC.fa.gz
+The resulting file has been gzipped and posted publicly: http://hypervolu.me/~erik/HPRC/MHC/HPRCy1.MHC.fa.gz
